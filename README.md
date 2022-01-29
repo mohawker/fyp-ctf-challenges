@@ -1,5 +1,5 @@
 # fyp-ctf-challenges
-A series of CTF challenges created to complement Software Security tutorials in university
+A series of CTF challenges created to enhance Software Security curriculum in NTU.
 
 ## Challenges
 
